@@ -43,9 +43,9 @@ Hello! I'm Richard.
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=RichLlew182\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichLlew182&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichLlew182&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=RichLlew182&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=RichLlew182&theme=default#gh-light-mode-onlyhide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ---
 

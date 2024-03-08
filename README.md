@@ -24,8 +24,8 @@ Hello! I'm Richard.
 
  Pinned Repos                                                                                        |                                                                                       Pinned Repos                                                                                       |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segleston&repo=DevOpps&theme=tokyonight)](https://segleston.github.io/DevOpps/)          |          [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segleston&repo=weather-dashboard&theme=tokyonight)](https://segleston.github.io/weather-dashboard/)          |
-|                [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segleston&repo=birthday-blast-from-the-past&theme=tokyonight)](https://segleston.github.io/birthday-blast-from-the-past/)          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segleston&repo=portfolio-react&theme=tokyonight)](https://segleston.github.io/portfolio-react/)          |
+|         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichLlew182&repo=DevOpps&theme=default)](https://segleston.github.io/DevOpps/)          |          [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segleston&repo=weather-dashboard&theme=tokyonight)](https://segleston.github.io/weather-dashboard/)          |
+|                [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segleston&repo=birthday-blast-from-the-past&theme=default)](https://segleston.github.io/birthday-blast-from-the-past/)          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segleston&repo=portfolio-react&theme=tokyonight)](https://segleston.github.io/portfolio-react/)          |
 
 
 --- 
@@ -33,10 +33,10 @@ Hello! I'm Richard.
 ### My Stats :
 
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=RichLlew182\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=RichLlew182\&show_icons=true\&theme=default)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichLlew182&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichLlew182&layout=compact&theme=default](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---

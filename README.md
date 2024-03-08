@@ -3,11 +3,10 @@
 ---
 
 <div id="badges" align="center" style="padding-bottom: 10px">
-  <a href="https://www.linkedin.com/in/sarah-egleston/">
+  <a href="[https://www.linkedin.com/in/sarah-egleston/](https://www.linkedin.com/in/richard-llewellyn-9073862b/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
-
 
 ---
 ### About Me:

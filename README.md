@@ -24,7 +24,7 @@ Hello! I'm Richard.
 
  Pinned Repos                                                                                        |                                                                                                                                                                        |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichLlew182&repo=DevOpps&theme=default)](https://richllew182.github.io/DevOpps/)          |          [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segleston&repo=weather-dashboard&theme=tokyonight)](https://segleston.github.io/weather-dashboard/)          |
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichLlew182&repo=DevOpps&theme=default)](https://github.com/RichLlew182/DevOpps/)          |          [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segleston&repo=weather-dashboard&theme=tokyonight)](https://segleston.github.io/weather-dashboard/)          |
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichLlew182&repo=react-portfolio&theme=default)](https://RichLlew182.github.io/react-portfolio/)          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segleston&repo=portfolio-react&theme=tokyonight)](https://segleston.github.io/portfolio-react/)          |
 
 

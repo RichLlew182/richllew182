@@ -25,7 +25,7 @@ Hello! I'm Richard.
  Pinned Repos                                                                                        |                                                                                                                                                                        |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichLlew182&repo=DevOpps&theme=default)](https://github.com/RichLlew182/DevOpps/)          |          [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segleston&repo=weather-dashboard&theme=tokyonight)](https://segleston.github.io/weather-dashboard/)          |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichLlew182&repo=react-portfolio&theme=default)](https://RichLlew182.github.io/react-portfolio/)          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segleston&repo=portfolio-react&theme=tokyonight)](https://segleston.github.io/portfolio-react/)          |
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichLlew182&repo=react-portfolio&theme=default)](https://github.com/RichLlew182/react-portfolio/)          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segleston&repo=portfolio-react&theme=tokyonight)](https://segleston.github.io/portfolio-react/)          |
 
 
 --- 
@@ -46,7 +46,6 @@ Hello! I'm Richard.
 <details>
   <summary>Resources</summary>
 
-- Neon photo: [Pexels](https://www.pexels.com/)
 - Visits counter: [Anton Komarev](https://github.com/antonkomarev/github-profile-views-counter)
 - Readme Stats: [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
 

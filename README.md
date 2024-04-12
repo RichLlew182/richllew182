@@ -24,7 +24,7 @@ My name is Richard, and I am a skilled Front-End Developer and designer based in
 
  Pinned Repos                                                                                        |                                                                                                                                                                        |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichLlew182&repo=DevOpps&theme=default)](https://devopps.app)          |          [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichLlew182&repo=weather-dashboard)](https://RichLlew182.github.io/weather-dashboard/)          |
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichLlew182&repo=DevOpps&theme=default)](https://devopps.app)          |          [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichLlew182&repo=the-pursuit-of-hobbyness)](https://richllew182.github.io/the-pursuit-of-hobbyness/)          |
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichLlew182&repo=react-portfolio&theme=default)](https://richllew.dev/)         |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichLlew182&repo=bootstrap-portfolio)](https://RichLlew182.github.io/bootstrap-portfolio/)          |
 
 

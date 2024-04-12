@@ -24,8 +24,8 @@ My name is Richard, and I am a skilled Front-End Developer and designer based in
 
  Pinned Repos                                                                                        |                                                                                                                                                                        |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichLlew182&repo=DevOpps&theme=default)](https://github.com/RichLlew182/DevOpps/)          |          [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segleston&repo=weather-dashboard&theme=tokyonight)](https://segleston.github.io/weather-dashboard/)          |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichLlew182&repo=react-portfolio&theme=default)](https://github.com/RichLlew182/react-portfolio/)          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segleston&repo=portfolio-react&theme=tokyonight)](https://segleston.github.io/portfolio-react/)          |
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichLlew182&repo=DevOpps&theme=default)](https://devopps.app)          |          [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segleston&repo=weather-dashboard&theme=tokyonight)](https://segleston.github.io/weather-dashboard/)          |
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichLlew182&repo=react-portfolio&theme=default)](https://richllew.dev/)          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segleston&repo=portfolio-react&theme=tokyonight)](https://segleston.github.io/portfolio-react/)          |
 
 
 --- 

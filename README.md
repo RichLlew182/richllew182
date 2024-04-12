@@ -1,7 +1,7 @@
 
 ### About Me:
 
-Hello! I'm Richard. 
+My name is Richard, and I am a skilled Front-End Developer and designer based in London. With a rich background spanning several years in the design industry, I am now eagerly seeking fresh challenges and exciting opportunities to leverage my expertise as a Front-End Developer.
 
 
 ### 💻 Tech Stack:

@@ -41,12 +41,7 @@ Hello! I'm Richard.
 
 ---
 
-## Credit :
+## Credits :
 
-<details>
-  <summary>Resources</summary>
 
-- Visits counter: [Anton Komarev](https://github.com/antonkomarev/github-profile-views-counter)
 - Readme Stats: [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
-
-</details>

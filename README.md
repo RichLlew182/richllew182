@@ -19,7 +19,7 @@ My name is Richard, and I am a skilled Front-End Developer and designer based in
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ---
 
-### My Repos :
+### My Repos:
 
 
  Pinned Repos                                                                                        |                                                                                                                                                                        |
@@ -30,7 +30,7 @@ My name is Richard, and I am a skilled Front-End Developer and designer based in
 
 --- 
 
-### My Stats :
+### My Stats:
 
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=RichLlew182\&show_icons=true\&theme=default)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
@@ -41,7 +41,7 @@ My name is Richard, and I am a skilled Front-End Developer and designer based in
 
 ---
 
-## Credits :
+## Credits:
 
 
 - Readme Stats: [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)

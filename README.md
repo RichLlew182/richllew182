@@ -20,7 +20,7 @@ My name is Richard, and I am a skilled Front-End Developer and designer based in
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ---
 
-### 💻 Currently Learning:
+### 🧑🏻‍💻 Currently Learning:
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
 ![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 

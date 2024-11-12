@@ -3,6 +3,8 @@
 
 My name is Richard, and I am a skilled Front-End Developer and designer based in London. With a rich background spanning several years in the design industry, I am now eagerly seeking fresh challenges and exciting opportunities to leverage my expertise as a Front-End Developer.
 
+![Portfolio] (https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)(https://www.richllew.dev/)
+
 
 ### 🤖 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
